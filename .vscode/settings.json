@@ -2,7 +2,8 @@
   "files.associations": {
     "complex": "cpp",
     "valarray": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "ostream": "cpp"
   },
   "workbench.colorTheme": "Quiet Light"
 }
