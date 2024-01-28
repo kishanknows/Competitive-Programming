@@ -1,21 +1,13 @@
-10
-10
-codeforces
-3
-abc
-10
-taarrrataa
-10
-dcbdbdcccc
-4
-wwww
 12
-cabbaccabaac
-10
-aadaaaaddc
-14
-aacdaaaacadcdc
-6
-abccba
-12
-dcbcaebacccd
+1 1 1
+2 1 2
+3 1 4
+3 3 2
+4 4 6
+4 3 3
+5 6 5
+5 4 12
+5 2 12
+4 2 1
+1 1 2
+44 758465880 1277583853
