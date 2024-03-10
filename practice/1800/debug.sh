@@ -1,0 +1,1 @@
+g++ -o temp "$1" && ./temp < input.txt
