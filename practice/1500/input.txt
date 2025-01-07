@@ -1,6 +1,22 @@
-5
-3 2
-2 0
-2 2
-4 6
-3 5
+7
+a
+b
+cb
+ab
+cd
+acbd
+ab
+ba
+aabb
+xxx
+yyy
+xyxyxy
+a
+bcd
+decf
+codes
+horse
+codeforces
+egg
+annie
+egaegaeg
